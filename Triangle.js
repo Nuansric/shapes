@@ -1,4 +1,3 @@
-var Shapes = require('./Shapes.js');
 
 //create a Triangle constructor,, using length as parameter
 function Triangle (length1, length2, length3){
